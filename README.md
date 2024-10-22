@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Yakub Junaid!
 
-I'm a **Professional Data Scientist and Machine Learning Engineer** with experience in:
+I'm a **Professional Data Scientist and Machine Learning Engineer**. I help individuals, businesses and enterprises to make data-driven decisions. 
+
+I have experience in:
 
 - 📊 Data Analytics, Machine Learning
 - 💻 Building and deploying machine learning models
