@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a **Professional Data Scientist and Machine Learning Engineer** with experience in:
 
-- 📊 Data Analytics, Machine Learning,
+- 📊 Data Analytics, Machine Learning
 - 💻 Building and deploying machine learning models
 - 🚀 Expertise in Python, SQL, and Power BI
 - 🌱 I’m currently learning MLOps
@@ -34,4 +34,4 @@ I'm a **Professional Data Scientist and Machine Learning Engineer** with experie
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/yakub-junaid)
 - [GitHub](https://github.com/OLUYAKOBO)
-- [Email](junaidyakub28@gmail.com)
+- **Email**: [junaidyakub28@gmail.com](mailto:junaidyakub28@gmail.com)
