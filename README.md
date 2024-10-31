@@ -25,13 +25,13 @@ I have experience in:
 - 🚀 Expertise in Python, SQL, and Power BI.
 - 🌱 I’m currently learning MLOps.
 
-### Projects I'm Proud Of:
+### Top Projects:
 - [📦 Email Spam Detector](https://github.com/OLUYAKOBO/email_spam_detector)
 - [💎 Churn Prediction Project](https://github.com/OLUYAKOBO/Churn_prediction_project)
 
-### 🔧 Tools I Love Using:
-- Python, Streamlit, Flask, Power BI
-- FastAPI
+### 🔧 Tools I Use:
+- Python, Streamlit, Flask, Power BI.
+- FastAPI.
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/yakub-junaid)
