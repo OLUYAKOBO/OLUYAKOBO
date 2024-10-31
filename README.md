@@ -20,10 +20,10 @@ I'm a **Professional Data Scientist and Machine Learning Engineer**. I help indi
 
 I have experience in:
 
-- 📊 Data Science, and Machine Learning
-- 💻 Building and deploying machine learning models
-- 🚀 Expertise in Python, SQL, and Power BI
-- 🌱 I’m currently learning MLOps
+- 📊 Data Science, and Machine Learning.
+- 💻 Building and deploying machine learning models.
+- 🚀 Expertise in Python, SQL, and Power BI.
+- 🌱 I’m currently learning MLOps.
 
 ### Projects I'm Proud Of:
 - [📦 Email Spam Detector](https://github.com/OLUYAKOBO/email_spam_detector)
