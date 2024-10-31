@@ -20,7 +20,7 @@ I'm a **Professional Data Scientist and Machine Learning Engineer**. I help indi
 
 I have experience in:
 
-- 📊 Data Analytics, Machine Learning
+- 📊 Data Science, and Machine Learning
 - 💻 Building and deploying machine learning models
 - 🚀 Expertise in Python, SQL, and Power BI
 - 🌱 I’m currently learning MLOps
